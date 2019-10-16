@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/24/email copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16" rx="3"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/24/email-copy">
+            <g id="Group-2" transform="translate(4.000000, 4.000000)">
+                <g id="Path">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#002851" opacity="0.4" xlink:href="#path-1"></use>
+                    <polygon fill="#002851" mask="url(#mask-2)" points="-1 5 8 10 17 4 17 -4 -1 -4"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
